@@ -1,6 +1,6 @@
-# 🌟 My #1day1startup Apps
+# 🌟 Tra Linh's #1day1startup Apps
 
-Welcome! 🚀  
+Welcome! 🥳  
 These are prototype startups I've built as part of my **#1day1startup** challenge — where I turn bold ideas into functional micro-startups in just one day. Each project explores how tech, AI, and human-centric design can solve real-world problems.
 
 ---
@@ -8,7 +8,7 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 ## 🔗 [FiLink – Aide au Matching de Financements](https://filink-aide-matcher.lovable.app/)
 > **💸 Platform to identify and match startups and projects with the right financing options.**  
 > Includes a special "BoostFemmes" module to improve funding access for women-led initiatives.  
-> 🎯 Target: Tech / AI / ESG startups, women founders  
+> 🎯 Target: Tech / AI / ESG startups, groups, associations, women founders  
 > 🛠️ Built with Lovable.app in 1 day
 
 ---
