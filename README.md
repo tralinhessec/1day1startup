@@ -9,7 +9,6 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 > **💸 Platform to identify and match startups and projects with the right financing options.**  
 > Includes a special "BoostFemmes" module to improve funding access for women-led initiatives.  
 > 🎯 Target: Tech / AI / ESG startups, groups, associations, women founders  
-> 🛠️ Built with Lovable.app in 1 day
 
 ---
 
@@ -26,6 +25,15 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 > Understand financial statements, cash flows, and key metrics – the EMBA way, but simplified.  
 > 🎯 Target: Startup CEOs, solo founders, corporate rebels  
 > 💡 1st module of the future Personal EMBA platform
+
+---
+
+## 🧠 Priorify
+
+> **⏱️ The smart workload & priority planner – for brains in demand.
+>   Sync your calendar, log your activities in seconds, and visualize your real workload by theme and priority.
+>   🔥 Designed for leaders, intrapreneurs, and teams juggling a thousand things.
+>   📍 MVP of a larger platform to master time, focus, and impact.
 
 ---
 
