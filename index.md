@@ -28,12 +28,11 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 
 ---
 
-## 🧠 [Priorify] (https://priorify-flow-pilot.lovable.app/)
-
+## 🧠 [Priorify](https://priorify-flow-pilot.lovable.app/)
 > **⏱️ The smart workload & priority planner – for brains in demand.
->   Sync your calendar, log your activities in seconds, and visualize your real workload by theme and priority.
->   🔥 Designed for leaders, intrapreneurs, and teams juggling a thousand things.
->   📍 MVP of a larger platform to master time, focus, and impact.
+> Sync your calendar, log your activities in seconds, and visualize your real workload by theme and priority.
+> 🔥 Designed for leaders, intrapreneurs, and teams juggling a thousand things.
+> 📍 MVP of a larger platform to master time, focus, and impact.
 
 ---
 
