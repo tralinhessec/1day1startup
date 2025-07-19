@@ -36,12 +36,11 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 
 ---
 
-🌿 HLAC – Healthy Life Against Cancer
-
-    🧬 The joyful AI-powered prevention app that helps you build anti-cancer habits.
-    Eat better, move smarter, and live healthier – one small action at a time, powered by science and empathy.
-    🎯 Target: Women 35–55, health-conscious users, cancer prevention advocates
-    💡 MVP of the future global prevention & well-being platform
+## 🌿 [HLAC – Healthy Life Against Cancer(https://helia-health-journey.lovable.app/)
+>   🧬 The joyful AI-powered prevention app that helps you build anti-cancer habits.
+>   Eat better, move smarter, and live healthier – one small action at a time, powered by science and empathy.
+>   🎯 Target: Women 35–55, health-conscious users, cancer prevention advocates
+>   💡 MVP of the future global prevention & well-being platform
 
 ## 🚧 What's Next?
 More lovable ideas are cooking...  
