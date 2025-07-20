@@ -36,10 +36,17 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 
 ---
 
+## 🌿 [AELYA – Your AI Health Ally](https://aelya-glow-up-journey.lovable.app/))  
+> **🤖 The smart, personalized prevention app empowering women 35-55 to take control of their health with AI-driven nutrition, fitness, and mental well-being guidance.**  
+> 🎯 Target: Women worldwide juggling life’s demands, seeking joyful, data-driven support against cancer and cardiovascular risks  
+> 💡 Multilingual, inclusive, and designed to reduce mental load while boosting vitality and longevity.
+
+---
+
 ## 🌿 [HLAC – Healthy Life Against Cancer](https://helia-health-journey.lovable.app/)
 >   🧬 The joyful AI-powered prevention app that helps you build anti-cancer habits.
 >   Eat better, move smarter, and live healthier – one small action at a time, powered by science and empathy.
->   🎯 Target: Women 35–55, health-conscious users, cancer prevention advocates
+>   🎯 Target: People 25–55, health-conscious users, cancer prevention advocates
 >   💡 MVP of the future global prevention & well-being platform
 
 ## 🚧 What's Next?
