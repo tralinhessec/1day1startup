@@ -36,7 +36,8 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 
 ---
 
-## 🌿 [AELYA – Your AI Health Ally](https://aelya-glow-up-journey.lovable.app/))  
+## 🌿 AELYA – Your AI Health Ally
+## [Version 1](https://aelya-wellbeing-guide.lovable.app) [Version 2](https://aelya-glow-up-journey.lovable.app/)
 > **🤖 The smart, personalized prevention app empowering women 35-55 to take control of their health with AI-driven nutrition, fitness, and mental well-being guidance.**  
 > 🎯 Target: Women worldwide juggling life’s demands, seeking joyful, data-driven support against cancer and cardiovascular risks  
 > 💡 Multilingual, inclusive, and designed to reduce mental load while boosting vitality and longevity.
