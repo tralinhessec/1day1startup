@@ -50,6 +50,16 @@ These are prototype startups I've built as part of my **#1day1startup** challeng
 >   🎯 Target: People 25–55, health-conscious users, cancer prevention advocates
 >   💡 MVP of the future global prevention & well-being platform
 
+---
+
+## 👵👴 [SilverBoard – Strategic AI Cockpit for Senior Living](https://silverboard-insights-ai.lovable.app/)
+>   🏥 The AI-powered decision cockpit that empowers COMEX teams in senior care to pilot with clarity, ethics, and impact.
+>   Unify fragmented data, detect early risks, and drive performance — all in one dashboard built for strategy, not just operations.
+>   🎯 Target: Executive teams of senior living groups, EHPAD networks, and healthcare investors
+>   💡 MVP of the future smart & ethical governance platform for the Silver Economy
+
+---
+
 ## 🚧 What's Next?
 More lovable ideas are cooking...  
 Stay tuned for the next one-day prototypes blending **impact, AI, and business sense**. 🧪💥
